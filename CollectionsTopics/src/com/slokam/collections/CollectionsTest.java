@@ -65,8 +65,8 @@ public class CollectionsTest {
 		//System.out.println(c1.equals(c2));
 	
 //remove
-		/*c1.removeAll(c);
-		System.out.println(c1);*/
+		c1.removeAll(c);
+		System.out.println(c1);
 		/*c.retainAll(c1);
 		System.out.println(c1);*/
 	
